@@ -1,0 +1,132 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.login,
+.signUp {
+    height: 51px;
+    width: 106px;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.login {
+    background: transparent;
+    color: #0dba4b;
+}
+
+.signUp {
+    border-radius: 5px;
+    background-color: #0dba4b;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 1rem !important;
+}
+
+.active {
+    color: #000;
+    border-bottom: 5px solid #0dba4b;
+    font-weight: 500
+}
+
+.active-button {
+    background-color: #cdfbcc !important;
+    color: black !important;
+    border-color: #0dba4b !important;
+}
+
+.sidebar ul li {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+    color: #707070;
+    font-size: 16px;
+}
+
+.left {
+    margin-left: 6rem;
+}
+
+.sidebar {
+    width: 5rem;
+}
+
+.sidebar:hover {
+    width: 12rem;
+    z-index: 1;
+}
+
+.sidebar ul li span {
+    visibility: hidden;
+}
+
+.sidebar:hover ul li span {
+    visibility: visible;
+}
+
+hr {
+    margin-left: -2rem !important;
+    margin-block-start: 0rem !important;
+    margin-block-end: 0rem !important;
+    color: #707070 !important;
+}
+
+.sidebar li:hover {
+    color: #0dba4b;
+}
+
+.active-sidebar {
+    color: #0dba4b;
+}
+
+.card-disclaimer {
+    text-align: center !important;
+    background-color: #fef7cd !important;
+    color: #b57f03 !important;
+    border: none !important;
+}
+
+.font-13 {
+    font-size: 13px;
+}
+
+.browse-button {
+    z-index: 1;
+    font-size: 2rem !important;
+}
+
+.browse-left-icon {
+    background-color: white;
+    top: 2rem;
+    left: -1rem;
+    border-radius: 1rem;
+}
+
+.browse-right-icon {
+    background-color: white;
+    top: 2rem;
+    left: -1rem;
+    border-radius: 1rem;
+}
+
+.browse-content {
+    left: 1rem;
+    width: 66%;
+    overflow-wrap: break-word;
+}
+
+footer ul li {
+    list-style-type: none;
+}
+
+footer div div div {
+    color: #b5b5b5;
+}
+
+footer div {
+    color: #b5b5b5;
+}

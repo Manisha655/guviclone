@@ -1,0 +1,228 @@
+[
+    {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=640,height=328,f=auto,fit=cover/course-thumbnail/webps/azuresolutionarchitectpart1.webp",
+      "cardImgText":"Azure Solution"
+    }, {
+      "courseHeading": "Introduction to FPGA architectures",
+      "duration": "7 Hours",
+      "language": "English",
+      "discountedPrice": "2499",
+      "actualPrice": "3000",
+      "disclaimer": "You save ₹ 501 (17% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Meta Ads",
+      "duration": "4 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=640,height=328,f=auto,fit=cover/course-thumbnail/webps/metaads.webp",
+      "cardImgText":"Meta Ads"
+    }, {
+      "courseHeading": "Node.js",
+      "duration": "13 Hours",
+      "language": "English",
+      "discountedPrice": "2499",
+      "actualPrice": "3000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=640,height=328,f=auto,fit=cover/course-thumbnail/webps/nodejsenglish.webp",
+      "cardImgText":"Node.js"
+    }, {
+      "courseHeading": "Python Zero to Hero Malayalam",
+      "duration": "17 Hours",
+      "language": "Malayalam",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=640,height=328,f=auto,fit=cover/course-thumbnail/webps/python.webp",
+      "cardImgText":"Python Zero to Hero"
+    }, {
+      "courseHeading": "Signal Integrity and Crosstalk",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=640,height=328,f=auto,fit=cover/course-thumbnail/webps/signalintegrityandcrosstalk.webp",
+      "cardImgText":"Signal Integrity"
+    }, {
+      "courseHeading": "Time Series Analysis and Forecasting",
+      "duration": "5 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=640,height=328,f=auto,fit=cover/course-thumbnail/webps/timeseriesanalysisandforecasting.webp",
+      "cardImgText":"Time Series Analysis"
+    }, {
+      "courseHeading": "Web Development with Python Flask-Tamil",
+      "duration": "11 Hours",
+      "language": "Tamil",
+      "discountedPrice": "2499",
+      "actualPrice": "3000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=640,height=328,f=auto,fit=cover/course-thumbnail/webps/pythonflasktamil.webp",
+      "cardImgText":"Web Development with python Flask"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }, {
+      "courseHeading": "Azure Solution Architect part-1",
+      "duration": "6 Hours",
+      "language": "English",
+      "discountedPrice": "1499",
+      "actualPrice": "2000",
+      "disclaimer": "You save ₹ 501 (26% Off)",
+      "cardImg": "https://static.guvi.in/cdn-cgi/image/metadata=keep,width=390,height=200,f=auto,fit=cover/course-thumbnail/webps/introductiontofpgaarchitectures.webp",
+      "cardImgText":"FPGA architectures"
+    }
+  ]
